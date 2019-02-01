@@ -1,0 +1,88 @@
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.exe
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.pdb
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.xml
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.vbprojResolveAssemblyReference.cache
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInicio.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmLogin.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmMenu.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.Resources.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.vbproj.GenerateResource.Cache
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.exe
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.xml
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.pdb
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmUsuario.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmEmpresa.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmArticulo.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmCliente.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmFactura.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmArticuloBuscar.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInformeFacturaClientes.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInformeFacturaFactura.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInformeFacturaFechas.resources
+C:\Users\josesepulveda\Documents\Visual Studio 2015\Projects\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.exe.config
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.exe.config
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.exe
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.pdb
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\FacturadorDesktop.xml
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.vbprojAssemblyReference.cache
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmArticulo.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmArticuloBuscar.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmCliente.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmEmpresa.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmFactura.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInformeFacturaClientes.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInformeFacturaFechas.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmInicio.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmLogin.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmMenu.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmUsuario.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.Resources.resources
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.vbproj.GenerateResource.cache
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.vbproj.CoreCompileInputs.cache
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.vbproj.CopyComplete
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.exe
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.xml
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.pdb
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jsv\Documents\Facturador.Net\FacturadorDesktop\obj\Debug\FacturadorDesktop.frmRpFactura.resources
