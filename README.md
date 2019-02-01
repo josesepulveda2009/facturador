@@ -1,2 +1,2 @@
 # facturador
-Demo. Registro de facturas de ventas para empresas de muebles
+Demo. Registro de facturas detas para empresas de muebles
